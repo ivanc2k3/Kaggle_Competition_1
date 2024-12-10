@@ -16,10 +16,10 @@ pip install scikit-learn
 
 ## Implement
 
-1. Run RF4GenderHand.py  
+1. Run `RF4GenderHand.py`  
 This step generates predictions for `genger` & `hold racket handed`.  
 
-2. Run mergeGH.py to merge results from step 1 and sample submission:  
+2. Run `mergeGH.py` to merge results from step 1 and sample submission:  
 This step outputs the predictions in the correct format.  
 
 ### Post-processing
