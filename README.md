@@ -28,8 +28,7 @@ This step outputs the predictions in the correct format.
 - Replace all values in the group of 30 rows with the identified majority value.
 - There are three possibilities for `play years` and `level`. We can try at most 6 times to get the right answer.  
 
-### Results
+## Results
 
-Leaderboard Score: 0.95038, securing rank 1.  
-
-I got a 99.5% correction rate in late submission in order to improve my second competition's score.
+- Leaderboard Score: 0.95038, securing rank 1.
+- I got a 99.5% correction rate in late submission in order to improve my second competition's score.
