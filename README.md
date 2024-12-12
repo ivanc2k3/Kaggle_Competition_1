@@ -1,5 +1,6 @@
 # Kaggle_Competition_1
-Data Science's In-Class Kaggle Competition 1: Predicting Tabletennis players' Attributes
+Data Science's In-Class Kaggle Competition 1: Predicting Tabletennis players' Attributes  
+**Rank: 1/71**
 
 ## Installation
 
@@ -9,9 +10,7 @@ cd [DownloadFolder]
 ```  
 2. Install the required packages:  
 ```bash
-pip install pandas
-pip install numpy
-pip install scikit-learn
+pip install -r requirements.txt
 ```
 
 ## Implement
@@ -28,5 +27,9 @@ This step outputs the predictions in the correct format.
 - Identify the majority value for these rows in each column.
 - Replace all values in the group of 30 rows with the identified majority value.
 - There are three possibilities for `play years` and `level`. We can try at most 6 times to get the right answer.  
+
+### Results
+
+Leaderboard Score: 0.95038, securing rank 1.  
 
 I got a 99.5% correction rate in late submission in order to improve my second competition's score.
